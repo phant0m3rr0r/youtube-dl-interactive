@@ -60,7 +60,7 @@ async function selectPresetOrResolution(formats) {
 			choices: [
 				{
 					name: 'best video + best audio',
-					value: {finalFormatId: 'bestvideo+bestaudio/best'}
+					value: {finalFormatId: 'best'}
 				},
 				{
 					name: 'worst video + worst audio',
